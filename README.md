@@ -16,6 +16,10 @@ If you want to run the project in production mode, use the command ```npm run bu
 
 See [run commands](#run-commands) to see the what commands you can use in this project.
 
+The app will be running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.8:8080/
+
 
 # Run commands
 ```
