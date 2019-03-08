@@ -1,5 +1,8 @@
 # NoroffVueApp
-This project is a simple Vue application that displays food recipes.
+This project is a simple Vue application that displays food recipes. 
+
+[run commands](#run-commands) | [run commands](#install-and-run-the-project)
+***
 
 # Install and run the project
 In order to run this project you will have to have [node.js](https://nodejs.org/en/) installed. You can download it from [here](https://nodejs.org/en/).
