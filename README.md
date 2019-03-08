@@ -1,5 +1,5 @@
-# NoroffVueApp
-This project is a simple Vue application that displays food recipes. 
+# FoodRecipeApp
+FoodRecipeApp is a simple Vue application that displays food recipes. 
 
 [install and run](#install-and-run-the-project) | [run commands](#run-commands) 
 ***
