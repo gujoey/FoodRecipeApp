@@ -7,10 +7,10 @@ Insde the project root directory, install the project using ```npm install```
 
 After the project is installed you can run ```npm run serve``` to run the prject in development mode, or you can use ```npm run build``` to run the project in production mode.
 
-See [project setup](#projectsetup) to see the what run commands you can use in this project.
+See [project setup](#project setup) to see the what run commands you can use in this project.
 
 
-## Project setup
+# Project setup
 ```
 npm install
 ```
