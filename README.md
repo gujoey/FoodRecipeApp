@@ -9,7 +9,7 @@ In order to run this project you will have to have [node.js](https://nodejs.org/
 
 Clone this repository and ```cd``` into it through your terminal.
 
-Insde the project root directory, install the project using ```npm install```
+Inside the project root directory, install the project using ```npm install```
 
 After the project is installed you can run ```npm run serve``` to run the project in development mode.
 If you want to run the project in production mode, use the command ```npm run build```
