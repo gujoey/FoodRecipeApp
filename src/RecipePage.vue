@@ -1,7 +1,7 @@
 <template>
 	<div class="container-fluid">
 		<div class="row">
-			<div v-for="recipe in recipes" class="col-md-4 my-3">
+			<div v-for="recipe in recipes" :key="recipe" class="col-md-4 my-3">
 				<RecipeComponent
 					v-bind:img="recipe.thumbnail"
 					v-bind:title="recipe.title"
